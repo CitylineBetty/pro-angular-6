@@ -14,3 +14,9 @@ Release v1.0 corresponds to the code in the published book, without corrections 
 ## Contributions
 
 See the file Contributing.md for more information on how you can contribute to this repository.
+
+
+
+https://github.com/felixrieseberg/windows-build-tools/issues/33
+
+npm --add-python-to-path='true' --debug install --global windows-build-tools
